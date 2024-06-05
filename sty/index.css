@@ -1,0 +1,19 @@
+.contenedor input{
+    margin: auto;
+    display: block;
+    margin-top: 25px;
+    text-align:center;
+}
+
+.resultado{
+    text-align: center;
+    margin-top:10px;
+}
+
+.pokemon{
+    border: 2px black solid;
+    border-radius: 25px;
+    padding: 50px;
+    width:fit-content;
+    height:220px;
+}
